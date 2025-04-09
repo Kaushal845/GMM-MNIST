@@ -1,0 +1,4 @@
+GMM 10 components - 0.6456
+GMM 50 components - 0.8504
+GMM ensemble 5 components - 0.9698
+GMM ensemble 10 components - 0.9751
