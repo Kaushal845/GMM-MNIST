@@ -2,6 +2,14 @@ GMM 10 components - 0.6456
 GMM 50 components - 0.8504
 GMM ensemble 5 components - 0.9698
 GMM ensemble 10 components - 0.9751
+BMM 20 components (soft mapping) - 0.7541
+BMM 20 components 3 init (soft mapping) - 0.7624
+BMM 50 components (soft mapping) - 0.8634
+BMM 50 components (mode based) - 0.8572
+BMM 50 components 3 init (soft mapping) - 0.8677
+BMM 50 components 3 init (mode based) - 0.8609
+Student nu3 50 components - 0.8168
+Student nu5 50 components - 0.7805
 Student ensemble 5 components - 0.9099
 Student ensemble 10 components - 0.9293
 Student ensemble 15 components - 0.9372
