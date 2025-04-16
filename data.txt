@@ -19,3 +19,6 @@ Student ensemble 10 components - 0.9293
 Student ensemble 15 components - 0.9372
 Student ensemble 20 components - 0.9437
 Student ensemble 40 components - 0.9502
+DPMM (soft mapping) - 0.9036
+DPMM (mode based) - 0.8967
+DPMM ensemble (soft mapping) - 0.9646
