@@ -8,6 +8,10 @@ BMM 50 components (soft mapping) - 0.8634
 BMM 50 components (mode based) - 0.8572
 BMM 50 components 3 init (soft mapping) - 0.8677
 BMM 50 components 3 init (mode based) - 0.8609
+BMM ensemble 5 components - 0.9711
+BMM ensemble 5 components 3 init - 0.9709
+BMM ensemble 10 components - 0.9752
+BMM ensemble 50 components - 0.9669
 Student nu3 50 components - 0.8168
 Student nu5 50 components - 0.7805
 Student ensemble 5 components - 0.9099
